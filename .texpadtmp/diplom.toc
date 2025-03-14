@@ -1,0 +1,5 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{2}{Doc-Start}%
+\contentsline {section}{ГЛОССАРИЙ}{3}{Doc-Start}%
+\contentsline {section}{\numberline {1}Курсовая}{3}{section.1}%
+\contentsfinish 

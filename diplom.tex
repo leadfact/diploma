@@ -1,0 +1,266 @@
+\documentclass[14pt, a4paper]{extarticle}
+% Русская локализация
+\usepackage[english,russian]{babel}
+
+
+\usepackage{appendix}
+\usepackage{alphabeta}
+
+% Использование математических шрифтов
+\usepackage{unicode-math}
+
+% Шрифты
+\usepackage{fontspec}
+\usepackage{courier}
+\defaultfontfeatures{Ligatures={TeX},Renderer=Basic}
+\setmainfont[Ligatures={TeX}]{Times New Roman}
+\setmonofont{Courier New}
+\setmathfont{XITS Math}
+
+% Расширенные ссылки
+\usepackage{nameref}
+
+% Оформление URL
+\usepackage{xurl}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks,
+  citecolor=black,
+  filecolor=black,
+  linkcolor=black,
+  urlcolor=black,
+  breaklinks=true,
+}
+\urlstyle{same}
+
+% Поддержка изображений
+\usepackage{graphicx}
+\graphicspath{{./images/}}
+\DeclareGraphicsExtensions{.jpg,.png}
+\usepackage{svg}
+
+% Таблицы
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{ltablex}
+\usepackage{multirow}
+\usepackage{hhline} 
+% Выравнивание по левому краю, с многострочностью
+\newcolumntype{s}{>{\raggedright\arraybackslash}X}
+
+% Поддержка листингов
+\usepackage{listings}
+\lstdefinestyle{gost}{
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,
+  breaklines=true,
+  keepspaces=true,
+  showspaces=false,          
+  showstringspaces=false,
+  frame=single
+}
+\lstset{style=gost}%
+
+% Отступ первой строки первого абзаца
+\usepackage{indentfirst}
+\linespread{1.25}
+
+% Размер полей в документе
+\usepackage{geometry}
+\geometry{left=3cm}
+\geometry{right=1cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm}
+
+% Абзацный отступ
+\setlength{\parindent}{1.25cm}
+
+% Отступ для элементов в списке
+\usepackage{enumitem}
+\setlist{left=\parindent, labelsep=1cm, itemsep=0pt, topsep=0pt}
+
+% Загрузка pdf-документов (нужно для титульных листов)
+\usepackage[final]{pdfpages}
+% Возможность поворота pdf файло
+\usepackage{pdflscape}
+\usepackage{everypage}
+
+\newcommand{\Lpagenumber}{\ifdim\textwidth=\linewidth\else\bgroup%
+    \dimendef\margin=0 %use \margin instead of \dimen0
+    \ifodd\value{page}\margin=\oddsidemargin
+    \else\margin=\evensidemargin%
+    \fi
+    \raisebox{\dimexpr-\topmargin-\headheight-\headsep-0.5\linewidth}[0pt][0pt]{%
+      \rlap{\hspace{\dimexpr-\margin+\textheight+\footskip}%
+        \llap{\rotatebox{90}{\thepage}}}}%
+    \egroup\fi}
+\AddEverypageHook{\Lpagenumber}%
+
+\usepackage{float}
+% Форматирование подписей
+\usepackage{caption}
+
+\usepackage{newfloat}
+% \DeclareCaptionType{listing}
+
+\DeclareCaptionLabelSeparator{emdash}{\;\textemdash\;}
+\captionsetup[figure]{name={Рисунок}, labelsep=emdash, justification=centering, position=above, singlelinecheck=off, font={small, bf}, labelfont=bf, skip=6pt}
+\captionsetup[table]{name={Таблица}, labelsep=emdash, justification=raggedright, position=top, singlelinecheck=off, font={small, it}, labelfont=it, skip=6pt, margin=0cm}
+% \captionsetup[lstlisting]{labelsep=emdash, justification=raggedright, position=top, singlelinecheck=off, font={small, it}, labelfont=it, skip=6pt, margin=0cm}
+
+% Нумеровать внутри заголовков первого уровня
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+% \counterwithin{lstlisting}{section}
+\AtBeginDocument{\counterwithin{lstlisting}{section}}
+
+% Отключение переносов текста
+\usepackage{ragged2e}
+\justifying
+\tolerance=500
+\hyphenpenalty=10000
+\emergencystretch=3em
+
+% Форматирование заголовков
+\usepackage{titlesec}
+% Оформление заголовка первого уровня
+% Полужирное начертание
+% Кегль 18 пт
+% С новой страницы
+\titleformat{\section}[block]
+{\newpage\bfseries\fontsize{18pt}{21.6pt}\selectfont}
+{\thesection}
+{1em}{}
+% Оформление ненумерованных заголовков (Введение, Содержание, список источников, и.т.д.)
+\titleformat{name=\section,numberless}[block]
+{\centering\newpage\bfseries\fontsize{18pt}{21.6pt}\selectfont}
+{}
+{0em}{}{}
+% Отступы у заголовков первого уровня
+\titlespacing{\section}
+{\parindent}% отступ слева (равен 1.25 см, как у отступа первой строки абзаца)
+{0em}% интервал перед
+{10mm}% интервал после
+% Оформление заголовков второго уровня
+\titleformat{\subsection}[block]
+{\bfseries\fontsize{16pt}{19.2pt}\selectfont}
+{\thesubsection}
+{1em}{}
+% Отступы у заголовков второго уровня
+\titlespacing{\subsection}
+{\parindent}% пробел слева
+{15mm}% отступ перед
+{10mm}% отступ после
+% Оформление заголовков второго уровня
+\titleformat{\subsubsection}[block]
+{\bfseries\selectfont}
+{\thesubsection}
+{1em}{}
+% Отступы у заголовков второго уровня
+\titlespacing{\subsubsection}
+{\parindent}% пробел слева
+{15mm}% отступ перед
+{10mm}% отступ после
+
+% Оформление заголовков в содержании
+\usepackage{titletoc}
+\contentsmargin{0pt}
+\renewcommand\contentspage{\thecontentspage}
+\dottedcontents{section}[2.3em]{}{2.3em}{5pt}
+\dottedcontents{subsection}[2.3em]{}{2.3em}{5pt}
+% Оформление приложений
+\usepackage{appendix}
+\renewcommand\appendixpagename{ПРИЛОЖЕНИЯ}
+
+% Подключение biblatex, с использованием стиля gost-numeric
+\usepackage[
+citestyle=gost-numeric,
+style=gost-numeric, 
+blockpunct=emdash,
+backend=biber,
+sorting=none
+]{biblatex}
+% Запрет разрыва url ссылок
+\defcounter{biburlnumpenalty}{3000}
+\defcounter{biburlucpenalty}{6000}
+\defcounter{biburllcpenalty}{9000}
+% Добавление полей для ссылок и даты обращения к ним
+\DeclareFieldFormat{url}{Режим доступа: #1}
+\DeclareFieldFormat{urldate}{(Дата обращения: #1)}
+\renewcommand*{\entrysetpunct}{\par\nopunct\!\!}
+% Использовать prac.bib как источник
+\addbibresource{kurs.bib}
+% Форматирование заголовка библиографии
+\defbibheading{bibliography}[\bibname]{%
+  \section*{\centering #1}%
+  \markboth{#1}{#1}}
+
+
+\usepackage{lipsum}
+\begin{document}
+\def\contentsname{СОДЕРЖАНИЕ}
+
+% Загрузка титула
+%\pagenumbering{gobble}
+%\begin{titlepage}
+%\includepdf{title}
+%\includepdf[pages={1-2}]{zadanie}
+%\end{titlepage}
+%\pagenumbering{arabic}
+%\setcounter{page}{4}
+% Содержание
+\tableofcontents
+
+\section*{ВВЕДЕНИЕ}
+\addcontentsline{toc}{section}{ВВЕДЕНИЕ}
+
+Современные предприятия сталкиваются с необходимостью постоянного
+совершенствования своих информационных систем для повышения
+эффективности управления различными аспектами бизнеса. Одним из
+ключевых направлений является оптимизация процессов взаимодействия с
+партнерами и клиентами через внедрение современных технологий и
+автоматизированных решений. В рамках данной курсовой работы
+рассматривается проектирование ИТ-инфраструктуры предприятия, 
+обеспечивающей функционирование модуля поддержки потребительского 
+кредитования, участвующей в бизнес-процессе поддержки банковской 
+информационной системы.
+
+Актуальность темы обусловлена тем, что в условиях высокой конкуренции
+и стремительного развития цифровых технологий компании вынуждены
+адаптироваться к новым вызовам рынка. Это требует создания гибких и
+масштабируемых инфраструктурных решений, способных поддерживать
+сложные процессы взаимодействия между предприятием и его
+партнёрами. Эффективная информационная система кредитования
+должна обеспечивать оперативность обработки запросов, прозрачность
+процедур, а также минимизировать риски ошибок и задержек.
+
+Целью курсовой работы является разработка концепции проектирования
+ИТ-инфраструктуры, способной обеспечить надежную работу информационной
+системы кредитования, отвечая требованиям безопасности данных,
+производительности и удобства использования. В работе будут
+рассмотрены вопросы выбора программных и аппаратных средств,
+интеграции различных компонентов инфраструктуры, а также обеспечения
+соответствия разработанных решений современным стандартам и
+нормативным актам.
+
+Данная работа охватывает комплексное изучение объекта и предмета
+исследования, проектирование и моделирование процессов с
+использованием современных инструментов (UML и Archimate), а также
+разработку календарно-ресурсного плана и анализ затрат на реализацию
+проекта.
+
+\section*{ГЛОССАРИЙ}
+\addcontentsline{toc}{section}{ГЛОССАРИЙ}
+\begin{raggedright}
+	СХД --- Система хранения данных \\
+	ИТ --- Информационные технологии \\
+	ПАО --- Публичное акционерное общество \\ 
+	CRM --- Customer Relationship Management \\
+  	СУБД --- Система управления базами данных \\
+  	ПО --- Программное обеспечение \\
+\end{raggedright}
+
+\section{Курсовая}
+Паааехали
+
+\end{document}
