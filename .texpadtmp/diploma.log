@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  16 MAR 2025 10:46
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  16 MAR 2025 10:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**diplom.tex
-(./diplom.tex
+**diploma.tex
+(./diploma.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -667,10 +667,10 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-runsystem(uname -s > "diplom.w18")...executed.
+runsystem(uname -s > "diploma.w18")...executed.
 
- (./diplom.w18)
-runsystem(rm -- "diplom.w18")...executed.
+ (./diploma.w18)
+runsystem(rm -- "diploma.w18")...executed.
 
 )
 \c@svg@param@lastpage=\count307
@@ -1266,8 +1266,8 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count503
 \@quotereset=\count504
-(/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.aux)
-\openout1 = `diplom.aux'.
+(/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.aux)
+\openout1 = `diploma.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
 LaTeX Font Info:    ... okay on input line 208.
@@ -1304,9 +1304,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 208.
 Package hyperref Info: Link coloring ON on input line 208.
- (/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.out) (/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.out)
+ (/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.out) (/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.out)
 \@outlinefile=\write5
-\openout5 = `diplom.out'.
+\openout5 = `diploma.out'.
 
  (|'inkscape' -V )
 
@@ -1388,16 +1388,16 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `diplom.bcf'.
+\openout4 = `diploma.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'diplom.bbl' found.
- (/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.bbl)
+Package biblatex Info: ... file 'diploma.bbl' found.
+ (/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bbl)
 Package biblatex Info: Reference section=0 on input line 208.
 Package biblatex Info: Reference segment=0 on input line 208.
- (/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.toc)
+ (/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.toc)
 \tf@toc=\write6
-\openout6 = `diplom.toc'.
+\openout6 = `diploma.toc'.
 
  [4
 
@@ -1628,24 +1628,24 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 112.
 See the caption package documentation for explanation.
 
-[12] (/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.aux)
+[12] (/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `diplom.out' has not changed.
+Package rerunfilecheck Info: File `diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 8C3D606BD7D2B63735D08927C75BD26B;2428.
-Package logreq Info: Writing requests to 'diplom.run.xml'.
-\openout1 = `diplom.run.xml'.
+Package logreq Info: Writing requests to 'diploma.run.xml'.
+\openout1 = `diploma.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  34558 strings out of 474773
- 667395 string characters out of 5757724
+ 667376 string characters out of 5757724
  1928839 words of memory out of 5000000
  56193 multiletter control sequences out of 15000+600000
  560686 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,5n,114p,1455b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,5n,114p,1456b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on /Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.pdf (9 pages).
+Output written on /Users/dnarek/MIREA/diploma/.texpadtmp/diploma.pdf (9 pages).

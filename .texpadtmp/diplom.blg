@@ -1,9 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is '/Users/dnarek/MIREA/diplom/.texpadtmp/diplom.blg'
-[31] biber-darwin:340> INFO - === Fri Mar 14, 2025, 17:23:06
-[40] Biber.pm:419> INFO - Reading '/Users/dnarek/MIREA/diplom/.texpadtmp/diplom.bcf'
-[87] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[96] bbl.pm:660> INFO - Writing '/Users/dnarek/MIREA/diplom/.texpadtmp/diplom.bbl' with encoding 'UTF-8'
-[96] bbl.pm:763> INFO - Output to /Users/dnarek/MIREA/diplom/.texpadtmp/diplom.bbl
-[96] Biber.pm:131> WARN - The file '/Users/dnarek/MIREA/diplom/.texpadtmp/diplom.bcf' does not contain any citations!
-[96] Biber.pm:133> INFO - WARNINGS: 1
+[0] Config.pm:310> INFO - Logfile is '/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.blg'
+[32] biber-darwin:340> INFO - === Sun Mar 16, 2025, 10:46:31
+[41] Biber.pm:419> INFO - Reading '/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.bcf'
+[90] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[98] Biber.pm:4419> INFO - Processing section 0
+[103] Biber.pm:4610> INFO - Looking for bibtex file '/Users/dnarek/MIREA/diplom copy/diplom.bib' for section 0
+[104] bibtex.pm:1713> INFO - LaTeX decoding ...
+[106] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/dnarek/MIREA/diplom copy/diplom.bib'
+[111] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[111] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[111] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[111] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
+[112] bbl.pm:660> INFO - Writing '/Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.bbl' with encoding 'UTF-8'
+[112] bbl.pm:763> INFO - Output to /Users/dnarek/MIREA/diplom copy/.texpadtmp/diplom.bbl
