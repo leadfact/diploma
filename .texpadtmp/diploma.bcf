@@ -3524,8 +3524,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">diploma.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">absolut-infrastructure-usage</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">absolut-MaxPatrol-usage</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">banks-rating</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">absolut-infrastructure-usage</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">absolut-MaxPatrol-usage</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

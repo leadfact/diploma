@@ -19,15 +19,20 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{absolut-infrastructure-usage}{online}{}
+    \entry{banks-rating}{online}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{note}{Рейтинг банков Россйской Федерации // URL: \url{https://www.banki.ru/banks/ratings/}(дата обращения: 16.03.2025)}
+    \endentry
+    \entry{absolut-infrastructure-usage}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{note}{Технологии используемые в ИТ-инфраструктуре <<Абсолют Банк>> // URL: \url{https://www.zoominfo.com/c/absolut-bank/354517810}(дата обращения: 16.03.2025)}
     \endentry
     \entry{absolut-MaxPatrol-usage}{online}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{note}{<<Абсолют Банк>> контролирует IT-инфраструктуру с помощью MaxPatrol SIEM // URL: \url{https://www.ptsecurity.com/ru-ru/about/news/absolyut-bank-kontroliruet-it-infrastrukturu-s-pomoshchyu-maxpatrol-siem/}(дата обращения: 16.03.2025)}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{note}{<<Абсолют Банк>> контролирует IT-инфраструктуру с помощью MaxPatrol SIEM // URL: \url{https://www.ptsecurity.com/ru-ru/about/news/absolyut-bank-kontroliruet-it -infrastrukturu-s-pomoshchyu-maxpatrol-siem/}(дата обращения: 16.03.2025)}
     \endentry
   \enddatalist
 \endrefsection
