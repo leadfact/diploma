@@ -22,22 +22,22 @@
     \entry{banks-rating}{online}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{note}{Рейтинг банков Россйской Федерации // URL: \url{https://www.banki.ru/banks/ratings/}(дата обращения: 16.03.2025)}
+      \field{note}{Рейтинг банков Россйской Федерации // URL: \url{https://www.banki.ru/banks/ratings/} (дата обращения: 16.03.2025)}
     \endentry
     \entry{absolut-infrastructure-usage}{online}{}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{note}{Технологии используемые в ИТ-инфраструктуре <<Абсолют Банк>> // URL: \url{https://www.zoominfo.com/c/absolut-bank/354517810}(дата обращения: 16.03.2025)}
+      \field{note}{Технологии используемые в ИТ-инфраструктуре <<Абсолют Банк>> // URL: \url{https://www.zoominfo.com/c/absolut-bank/354517810} (дата обращения: 16.03.2025)}
     \endentry
     \entry{BPMSoft-usage}{online}{}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{note}{CRM система BPMSoft // URL: \url{https://www.comnews.ru/digital-economy/content/238007/2025-02-27/2025-w09 /1012/absolyut-bank-zavershil-cifrovuyu-transformaciyu-klientskikh-processov} (дата обращения: 17.03.2025)}
+      \field{note}{CRM система BPMSoft // URL: \url{https://www.comnews.ru/digital-economy/content/238007/2025-02-27/2025-w09 /1012/absolyut-bank-zavershil-cifrovuyu-transformaciyu-klientskikh-processov} (дата бращения: 17.03.2025)}
     \endentry
     \entry{absolut-MaxPatrol-usage}{online}{}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{note}{<<Абсолют Банк>> контролирует IT-инфраструктуру с помощью MaxPatrol SIEM // URL: \url{https://www.ptsecurity.com/ru-ru/about/news/absolyut-bank-kontroliruet-it -infrastrukturu-s-pomoshchyu-maxpatrol-siem/}(дата обращения: 16.03.2025)}
+      \field{note}{<<Абсолют Банк>> контролирует IT-инфраструктуру с помощью MaxPatrol SIEM // URL: \url{https://www.ptsecurity.com/ru-ru/about/news/absolyut-bank-kontroliruet-it -infrastrukturu-s-pomoshchyu-maxpatrol-siem/} (дата обращения: 16.03.2025)}
     \endentry
   \enddatalist
 \endrefsection

@@ -1,11 +1,11 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{ВВЕДЕНИЕ}{5}{section*.1}%
-\contentsline {section}{ГЛОССАРИЙ}{7}{section*.2}%
-\contentsline {section}{\numberline {1}ИСХОДНЫЕ ДАННЫЕ И ПОСТАНОВКА ЗАДАЧИ}{7}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Характеристика объекта исследования}{8}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Предпроектное обследование объекта исследования}{11}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Характеристика предмета исследования}{18}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Архитектура объекта исследования}{22}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Резюме проекта}{25}{subsection.1.5}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{27}{section*.12}%
+\contentsline {section}{ВВЕДЕНИЕ}{8}{section*.1}%
+\contentsline {section}{ГЛОССАРИЙ}{10}{section*.2}%
+\contentsline {section}{\numberline {1}ИСХОДНЫЕ ДАННЫЕ И ПОСТАНОВКА ЗАДАЧИ}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Характеристика объекта исследования}{11}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Предпроектное обследование объекта исследования}{14}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Характеристика предмета исследования}{21}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Архитектура объекта исследования}{24}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Резюме проекта}{28}{subsection.1.5}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗУЕМЫХ ИСТОЧНИКОВ}{32}{section*.12}%
 \contentsfinish 
