@@ -24,29 +24,75 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{note}{Рейтинг банков Российской Федерации // URL: \url{https://www.banki.ru/banks/ratings/} (дата обращения: 16.03.2025)}
     \endentry
-    \entry{absolut-infrastructure-usage}{online}{}
+    \entry{kyc}{book}{}
+      \name{author}{1}{}{%
+        {{hash=be56c1ab6567e10b80e4565c436c55cc}{%
+           family={Service\bibnamedelimb -\bibnamedelima KYC},
+           familyi={S\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={The\bibnamedelima Art},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{be56c1ab6567e10b80e4565c436c55cc}
+      \strng{fullhash}{be56c1ab6567e10b80e4565c436c55cc}
+      \strng{bibnamehash}{be56c1ab6567e10b80e4565c436c55cc}
+      \strng{authorbibnamehash}{be56c1ab6567e10b80e4565c436c55cc}
+      \strng{authornamehash}{be56c1ab6567e10b80e4565c436c55cc}
+      \strng{authorfullhash}{be56c1ab6567e10b80e4565c436c55cc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{317 с.}
+      \field{title}{KYC Know Your Customer A Complete Guide - 2021 Edition}
+      \field{year}{2020}
+    \endentry
+    \entry{absolut-infrastructure-usage}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{note}{Технологии, используемые в ИТ-инфраструктуре <<Абсолют Банк>> // URL: \url{https://www.zoominfo.com/c/absolut-bank/354517810} (дата обращения: 16.03.2025)}
     \endentry
     \entry{BPMSoft-usage}{online}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{note}{CRM система BPMSoft // URL: \url{https://www.comnews.ru/digital-economy/content/238007/2025-02-27/2025-w09 /1012/absolyut-bank-zavershil-cifrovuyu-transformaciyu-klientskikh-processov} (дата обращения: 17.03.2025)}
     \endentry
     \entry{absolut-MaxPatrol-usage}{online}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{note}{<<Абсолют Банк>> контролирует IT-инфраструктуру с помощью MaxPatrol SIEM // URL: \url{https://www.ptsecurity.com/ru-ru/about/news/absolyut-bank-kontroliruet-it -infrastrukturu-s-pomoshchyu-maxpatrol-siem/} (дата обращения: 16.03.2025)}
     \endentry
+    \entry{psql}{book}{}
+      \name{author}{1}{}{%
+        {{hash=56d7ebf7db6b079510f1216efa3f5bf0}{%
+           family={Regina\bibnamedelimb O.\bibnamedelimi Obe},
+           familyi={R\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Leo\bibnamedelimb s.\bibnamedelimi Hsu},
+           giveni={L\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \strng{fullhash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \strng{bibnamehash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \strng{authorbibnamehash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \strng{authornamehash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \strng{authorfullhash}{56d7ebf7db6b079510f1216efa3f5bf0}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{165 с.}
+      \field{title}{PostgreSQL: Up and Running}
+      \field{year}{2012}
+    \endentry
     \entry{intel-corei3-4130}{online}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{note}{Характеристики процессора Intel Core i3-4130 // URL: \url{https://www.intel.com/content/www/us/en/products/sku/77480/intel-core-i3 -4130-processor-3m-cache-3-40-ghz/specifications.html} (дата обращения: 17.03.2025)}
     \endentry
     \entry{aquarius-aqbook-NE355}{online}{}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{note}{Описание и характеристики ноутбука Aquarius AQbook NE355 // URL: \url{https://www.aq.ru/product/aquarius-cmp-ne355/} (дата обращения: 17.03.2025)}
     \endentry
     \entry{archimate-landing}{online}{}
@@ -80,6 +126,28 @@
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{note}{Чистая приведённая стоимость // URL: \url{https://shorturl.at/fqWfo} (дата обращения: 22.03.2025)}
+    \endentry
+    \entry{dfd}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4958048bd22d516c8770ee2e50744029}{%
+           family={Thomas\bibnamedelima Hathaway},
+           familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Angela\bibnamedelima Hathaway},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4958048bd22d516c8770ee2e50744029}
+      \strng{fullhash}{4958048bd22d516c8770ee2e50744029}
+      \strng{bibnamehash}{4958048bd22d516c8770ee2e50744029}
+      \strng{authorbibnamehash}{4958048bd22d516c8770ee2e50744029}
+      \strng{authornamehash}{4958048bd22d516c8770ee2e50744029}
+      \strng{authorfullhash}{4958048bd22d516c8770ee2e50744029}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{118 с.}
+      \field{title}{Data Flow Diagrams - Simply Put}
+      \field{year}{2016}
     \endentry
   \enddatalist
 \endrefsection

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  22 MAR 2025 16:49
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.10)  22 MAR 2025 19:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1582,22 +1582,84 @@ Package biblatex Info: ... file 'diploma.bbl' found.
 (./diploma.bbl)
 Package biblatex Info: Reference section=0 on input line 209.
 Package biblatex Info: Reference segment=0 on input line 209.
- (./diploma.toc)
-\tf@toc=\write6
-\openout6 = `diploma.toc'.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+ [1
 
+
+]
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+ [2
+
+]
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 2>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 2>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 2>
+ [3
+
+]
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 3>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 3>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 3>
  [4
 
 ]
-Underfull \hbox (badness 3568) in paragraph at lines 227--232
-[]\TU/TimesNewRoman(0)/m/n/14.4 Исследуемым объектом в рамках дипломной работы 
-является ИТ-
- []
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 4>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 4>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 4>
+ [5
 
+]
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 5>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 5>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 5>
+ [6
 
-Underfull \hbox (badness 1708) in paragraph at lines 227--232
-\TU/TimesNewRoman(0)/m/n/14.4 инфраструктура, поддерживающая модуль потребитель
-ского кредитования.
+] (./diploma.toc)
+\tf@toc=\write6
+\openout6 = `diploma.toc'.
+
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 227--232
+\TU/TimesNewRoman(0)/m/n/14.4 поддерживающая модуль потребительского кредитован
+ия. Этот модуль
  []
 
 
@@ -1642,49 +1704,31 @@ Underfull \hbox (badness 4505) in paragraph at lines 244--250
  нормативных
  []
 
-
-Overfull \hbox (4.133pt too wide) in paragraph at lines 263--266
-[]\TU/TimesNewRoman(0)/m/n/14.4 Целью дипломного проекта является создание дета
-льной функциональной
+[8]
+Underfull \hbox (badness 1005) in paragraph at lines 267--272
+[]\TU/TimesNewRoman(0)/m/n/14.4 Задачи проекта включают в себя анализ текущей и
+нфраструктуры и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
-\TU/TimesNewRoman(0)/m/n/14.4 модели и дизайна ИТ-инфраструктуры для модуля пот
-ребительского
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 267--272
-[]\TU/TimesNewRoman(0)/m/n/14.4 Задачи дипломного проекта включают в себя анали
-з текущей
+Overfull \hbox (1.06502pt too wide) in paragraph at lines 273--277
+[]\TU/TimesNewRoman(0)/m/n/14.4 Результатом проекта является разработанный диза
+йн ИТ-инфраструктуры
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 267--272
-\TU/TimesNewRoman(0)/m/n/14.4 инфраструктуры и бизнес-процессов, определение кл
-ючевых требований,
+Underfull \hbox (badness 10000) in paragraph at lines 273--277
+\TU/TimesNewRoman(0)/m/n/14.4 для модуля потребительского кредитования информац
+ионной системы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--272
-\TU/TimesNewRoman(0)/m/n/14.4 которые определяются на основе уровня качества об
-служивания и
+Underfull \hbox (badness 10000) in paragraph at lines 273--277
+\TU/TimesNewRoman(0)/m/n/14.4 кредитной организации, которая состоит из функцио
+нальной модели
  []
 
-
-Underfull \hbox (badness 3492) in paragraph at lines 267--272
-\TU/TimesNewRoman(0)/m/n/14.4 системных требований, разработку архитектуры опис
-ывающей состояние
- []
-
-
-Underfull \hbox (badness 4981) in paragraph at lines 273--277
-[]\TU/TimesNewRoman(0)/m/n/14.4 Результатом курсовой работы является разработан
-ный дизайн ИТ-
- []
-
-[6] [7]
+[9] [10]
 Underfull \hbox (badness 1888) in paragraph at lines 307--327
 \TU/TimesNewRoman(0)/m/n/14.4 рынке с момента своего основания 22 апреля 1993 г
 ода. За годы своей
@@ -1710,224 +1754,230 @@ Underfull \hbox (badness 1303) in paragraph at lines 307--327
 
 File: ./images/кредитный_портфель_банков_крупные.png Graphic file (type bmp)
 <./images/кредитный_портфель_банков_крупные.png>
-[8]
+[11]
 File: ./images/кредитный_портфель_банков_малые.png Graphic file (type bmp)
 <./images/кредитный_портфель_банков_малые.png>
 
-Underfull \hbox (badness 1406) in paragraph at lines 346--353
+Underfull \hbox (badness 1406) in paragraph at lines 346--354
 \TU/TimesNewRoman(0)/m/n/14.4 клиентов. Хранение такой личной информации клиент
 ов, так имя, адрес,
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 346--353
+Underfull \hbox (badness 1708) in paragraph at lines 346--354
 \TU/TimesNewRoman(0)/m/n/14.4 контакты. Хранение данных о расходах и доходах и 
 кредитной истории.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--370
+Underfull \hbox (badness 10000) in paragraph at lines 355--371
 []\TU/TimesNewRoman(0)/m/n/14.4 Отдельной функцией в потребительском кредитован
 ии является
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 354--370
+Underfull \hbox (badness 1675) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 для всех кредиторов. Одним из процессов является 
 применение моделей
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 354--370
+Underfull \hbox (badness 1490) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 кредитоспособности кредитора. В случае с ипотекам
 и проводится оценка
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 354--370
+Underfull \hbox (badness 1205) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 недвижимости для определения ее рыночной стоимост
 и. «Абсолют Банк»
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 354--370
+Underfull \hbox (badness 3838) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 позволяет клиентам подавать заявки на кредитовани
 е с использованием
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 354--370
+Underfull \hbox (badness 7869) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 с использованием онлайн-портала, так как крупные 
 банки у которых
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 354--370
+Underfull \hbox (badness 3769) in paragraph at lines 355--371
 \TU/TimesNewRoman(0)/m/n/14.4 эти процессы оптимизированы имеют кредитный портф
 ель многократно
  []
 
-[9]
-Underfull \hbox (badness 1675) in paragraph at lines 371--375
+[12]
+Underfull \hbox (badness 1675) in paragraph at lines 372--376
 \TU/TimesNewRoman(0)/m/n/14.4 для ипотек считается завершенным на стадии, где з
 аемщик подписывает
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 371--375
+Underfull \hbox (badness 3769) in paragraph at lines 372--376
 \TU/TimesNewRoman(0)/m/n/14.4 документы и получает ключи от недвижимости, а для
  других методов
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 376--384
+Underfull \hbox (badness 5939) in paragraph at lines 377--385
 []\TU/TimesNewRoman(0)/m/n/14.4 Функция обслуживания состоит из перевода средст
 в заемщику и
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 376--384
+Underfull \hbox (badness 5939) in paragraph at lines 377--385
 \TU/TimesNewRoman(0)/m/n/14.4 управления процессом погашения выданных кредитов,
  что включает в
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 376--384
+Underfull \hbox (badness 3260) in paragraph at lines 377--385
 \TU/TimesNewRoman(0)/m/n/14.4 Банк отслеживает своевременность выполнения плате
 жей и отслеживает
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 376--384
+Underfull \hbox (badness 1484) in paragraph at lines 377--385
 \TU/TimesNewRoman(0)/m/n/14.4 держит за собой право инициировать процедуру рест
 руктуризации долга,
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 376--384
+Underfull \hbox (badness 4792) in paragraph at lines 377--385
 \TU/TimesNewRoman(0)/m/n/14.4 взыскания или передачи долга в коллекторское аген
 тство. Это требует
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--393
+Underfull \hbox (badness 10000) in paragraph at lines 386--394
 []\TU/TimesNewRoman(0)/m/n/14.4 Управление рисками – это процесс, где применяют
 ся методы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--393
+Underfull \hbox (badness 10000) in paragraph at lines 386--394
 \TU/TimesNewRoman(0)/m/n/14.4 мониторинга портфелей и финансов кредиторов. Упра
 вление рисками
  []
 
-[10]
-Underfull \hbox (badness 2753) in paragraph at lines 394--400
+[13]
+Underfull \hbox (badness 2753) in paragraph at lines 395--401
 \TU/TimesNewRoman(0)/m/n/14.4 подразделений, которые могут применяться менеджме
 нтом для принятия
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 401--409
+Underfull \hbox (badness 1072) in paragraph at lines 402--410
 []\TU/TimesNewRoman(0)/m/n/14.4 АКБ «Абсолют Банк» обрабатывает такие типы данн
 ых, как личная
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--409
+Underfull \hbox (badness 10000) in paragraph at lines 402--410
 \TU/TimesNewRoman(0)/m/n/14.4 информация, финансовая история и документы. Данны
 е об объектах
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 401--409
+Underfull \hbox (badness 4927) in paragraph at lines 402--410
 \TU/TimesNewRoman(0)/m/n/14.4 данные, которые подразумевают информацию о платеж
 ах, комиссиях и
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 412--419
+Underfull \hbox (badness 5847) in paragraph at lines 413--420
 []\TU/TimesNewRoman(0)/m/n/14.4 Обследование объекта исследования – это важный 
 этап, который
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 412--419
+Underfull \hbox (badness 3471) in paragraph at lines 413--420
 \TU/TimesNewRoman(0)/m/n/14.4 «Абсолют Банк». В этом пункте будут рассматривать
 ся модели бизнес-
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 412--419
+Underfull \hbox (badness 2073) in paragraph at lines 413--420
 \TU/TimesNewRoman(0)/m/n/14.4 процессов «как есть» в нотации BPMN 2.0, диаграмм
 ы UML вариантов
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 412--419
+Underfull \hbox (badness 1253) in paragraph at lines 413--420
 \TU/TimesNewRoman(0)/m/n/14.4 использования и DFD, на основе анализа будут выне
 сены формальные и
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 420--429
+Underfull \hbox (badness 7869) in paragraph at lines 421--430
 []\TU/TimesNewRoman(0)/m/n/14.4 На текущий момент бизнес процесс выдачи кредита
  через веб-
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 420--429
+Underfull \hbox (badness 3302) in paragraph at lines 421--430
 \TU/TimesNewRoman(0)/m/n/14.4 менеджер и кредитный специалист. Эти акторы осуще
 ствляют действия
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 420--429
+Underfull \hbox (badness 1057) in paragraph at lines 421--430
 \TU/TimesNewRoman(0)/m/n/14.4 по сопровождению, анализу кредитоспособности, обр
 ащению в кредитное
  []
 
 
-Underfull \hbox (badness 4366) in paragraph at lines 420--429
+Underfull \hbox (badness 4366) in paragraph at lines 421--430
 \TU/TimesNewRoman(0)/m/n/14.4 потребителю не был бы сформирован полностью, так 
 как для выдачи
  []
 
-[11]
+[14]
 File: ./images/uml_use_case_extended.png Graphic file (type bmp)
 <./images/uml_use_case_extended.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--439
+Underfull \hbox (badness 10000) in paragraph at lines 438--440
 []\TU/TimesNewRoman(0)/m/n/14.4 Текстовое описание UML диаграммы вариантов испо
 льзования
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 466--466
+Underfull \hbox (badness 7221) in paragraph at lines 438--440
+\TU/TimesNewRoman(0)/m/n/14.4 представлена в Таблице [][]1.1[][]. В диаграмме и
+спользуются только связи
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 467--467
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 466--466
+Overfull \hbox (14.0pt too wide) in paragraph at lines 467--467
 [] [] 
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 466--466
+Underfull \hbox (badness 2020) in paragraph at lines 467--467
 []|\TU/TimesNewRoman(0)/m/n/14.4 Передать информацию по заявке
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
 []|\TU/TimesNewRoman(0)/m/n/14.4 Получить сводку финансовых
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
 []|\TU/TimesNewRoman(0)/m/n/14.4 Запросить информацию по
  []
 
-[12]
+[15]
 Underfull \hbox (badness 5077) in paragraph at lines 468--477
 \TU/TimesNewRoman(0)/m/n/14.4 что бизнес-процесс выдачи кредитов с использовани
 ем веб-приложения
@@ -1971,17 +2021,9 @@ Underfull \hbox (badness 1142) in paragraph at lines 478--490
 
 File: ./images/dfd0.png Graphic file (type bmp)
 <./images/dfd0.png>
-[13]
+[16]
 File: ./images/dfd1.png Graphic file (type bmp)
 <./images/dfd1.png>
-
-
-Package caption Warning: \label without proper reference on input line 524.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:bpmn1' on page 14 undefined on input line 510.
-
 
 Underfull \hbox (badness 5460) in paragraph at lines 506--512
 []\TU/TimesNewRoman(0)/m/n/14.4 Компоненты ИТ-инфраструктуры и технологии, кото
@@ -2006,13 +2048,7 @@ Underfull \hbox (badness 3536) in paragraph at lines 506--512
 кий интерфейс. На
  []
 
-
-Underfull \hbox (badness 1436) in paragraph at lines 506--512
-\TU/TimesNewRoman(0)/m/n/14.4 Рисунках [][]1.6[][] - [][][][][] представлены те
-хнологии и процессы происходящие в
- []
-
-[14]
+[17]
 File: ./images/bpmn_diagram_0.png Graphic file (type bmp)
 <./images/bpmn_diagram_0.png>
 File: ./images/bpmn_diagram_1.png Graphic file (type bmp)
@@ -2025,7 +2061,7 @@ Underfull \hbox (badness 2547) in paragraph at lines 527--548
 
 
 Underfull \hbox (badness 3612) in paragraph at lines 527--548
-\TU/TimesNewRoman(0)/m/n/14.4 программное обеспечение «Yandex metrica»[[][]2[][
+\TU/TimesNewRoman(0)/m/n/14.4 программное обеспечение «Yandex metrica»[[][]3[][
 ]]. Основным инструментом
  []
 
@@ -2077,324 +2113,324 @@ Underfull \hbox (badness 1184) in paragraph at lines 527--548
 0.000 рублей каждый
  []
 
-[15]
-Overfull \hbox (14.0pt too wide) in paragraph at lines 577--577
+[18]
+Overfull \hbox (14.0pt too wide) in paragraph at lines 580--580
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 577--577
+Overfull \hbox (14.0pt too wide) in paragraph at lines 580--580
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Стоимость
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 \TU/TimesNewRoman(0)/m/n/14.4 единицы в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Стоимость
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 \TU/TimesNewRoman(0)/m/n/14.4 единицы в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Виртуальная
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 577--577
+Underfull \hbox (badness 1215) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Ubuntu 24.4, 8v
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Обслуживаемый
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 Обслуживаемый
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 577--577
+Underfull \hbox (badness 1694) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 86 TB SSD, 40
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
 []|\TU/TimesNewRoman(0)/m/n/14.4 1.140.000
  []
 
-[16]
-Overfull \hbox (14.0pt too wide) in paragraph at lines 611--611
+[19]
+Overfull \hbox (14.0pt too wide) in paragraph at lines 614--614
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 611--611
+Overfull \hbox (14.0pt too wide) in paragraph at lines 614--614
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 []|\TU/TimesNewRoman(0)/m/n/14.4 Двухъядерный, 4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 потока, базовая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 частота 3,40 ГГц,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 графика Intel HD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 []|\TU/TimesNewRoman(0)/m/n/14.4 Тип DDR4 SDRAM,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 частота 2400 МГц,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 форм-фактор DIMM,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 напряжение питания
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 []|\TU/TimesNewRoman(0)/m/n/14.4 Скорость чтения до
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 560 МБ/с, скорость
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 611--611
+Underfull \hbox (badness 2894) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 записи до 535 МБ/с,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 []|\TU/TimesNewRoman(0)/m/n/14.4 Надежное
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 611--611
+Underfull \hbox (badness 5359) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 подключение к сети,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 достаточное для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 []|\TU/TimesNewRoman(0)/m/n/14.4 Встроенная графика,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 611--611
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
 \TU/TimesNewRoman(0)/m/n/14.4 достаточная для
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 613--620
+Underfull \hbox (badness 1924) in paragraph at lines 616--623
 []\TU/TimesNewRoman(0)/m/n/14.4 Работникам компании, которые работают в удаленн
 ом формате или
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 613--620
+Underfull \hbox (badness 1082) in paragraph at lines 616--623
 \TU/TimesNewRoman(0)/m/n/14.4 Стоимость одного ноутбука «Aquarius AQbook NE355»
  составляет 88 000
  []
 
-[17]
-Underfull \hbox (badness 6592) in paragraph at lines 621--623
+[20]
+Underfull \hbox (badness 6592) in paragraph at lines 624--626
 []\TU/TimesNewRoman(0)/m/n/14.4 В Таблице [][]1.4[][] представлено программное 
 используемое на АРМ
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 640--640
+Overfull \hbox (14.0pt too wide) in paragraph at lines 643--643
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 640--640
+Overfull \hbox (14.0pt too wide) in paragraph at lines 643--643
 [] [] 
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 642--648
+Underfull \hbox (badness 1173) in paragraph at lines 645--651
 []\TU/TimesNewRoman(0)/m/n/14.4 При столь внушительных объемах обрабатываемых д
 анных, строгом
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 642--648
+Underfull \hbox (badness 1360) in paragraph at lines 645--651
 \TU/TimesNewRoman(0)/m/n/14.4 и безопасным. К тому же облачные вендоры не всегд
 а гарантируют, что
  []
 
 
-Underfull \hbox (badness 8019) in paragraph at lines 651--663
+Underfull \hbox (badness 8019) in paragraph at lines 654--666
 \TU/TimesNewRoman(0)/m/n/14.4 обслуживания, системных требований к программному
  обеспечению и
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 651--663
+Underfull \hbox (badness 1142) in paragraph at lines 654--666
 \TU/TimesNewRoman(0)/m/n/14.4 системы для функционирования кредитования, как ск
 оринговая система и
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 651--663
+Underfull \hbox (badness 3009) in paragraph at lines 654--666
 \TU/TimesNewRoman(0)/m/n/14.4 инфраструктура с существующими нагрузками, то как
  часто происходят
  []
 
-[18]
-Overfull \hbox (14.0pt too wide) in paragraph at lines 710--710
+[21]
+Overfull \hbox (14.0pt too wide) in paragraph at lines 713--713
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 710--710
+Overfull \hbox (14.0pt too wide) in paragraph at lines 713--713
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--710
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
 []|\TU/TimesNewRoman(0)/m/n/14.4 Количество предлагаем видов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--710
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
 []|\TU/TimesNewRoman(0)/m/n/14.4 Количество предлагаем видов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--710
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
 []|\TU/TimesNewRoman(0)/m/n/14.4 3, потребительский, автокредит,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--710
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
 []|\TU/TimesNewRoman(0)/m/n/14.4 2-5 (паспорт, СНИЛС,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--710
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
 []|\TU/TimesNewRoman(0)/m/n/14.4 Высокий (оценка 4 на основе
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 739--739
+Overfull \hbox (14.0pt too wide) in paragraph at lines 742--742
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 739--739
+Overfull \hbox (14.0pt too wide) in paragraph at lines 742--742
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 739--739
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
 []|\TU/TimesNewRoman(0)/m/n/14.4 Средний-высокий (резервные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 739--739
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
 []|\TU/TimesNewRoman(0)/m/n/14.4 Время восстановления данных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 739--739
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
 []|\TU/TimesNewRoman(0)/m/n/14.4 Используемые протоколы
  []
 
-[19]
-Underfull \hbox (badness 7344) in paragraph at lines 741--754
+[22]
+Underfull \hbox (badness 7344) in paragraph at lines 744--757
 \TU/TimesNewRoman(0)/m/n/14.4 у банка довольно низок, а большинство компаний в 
 сфере банкинга
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 741--754
+Underfull \hbox (badness 4168) in paragraph at lines 744--757
 \TU/TimesNewRoman(0)/m/n/14.4 придерживаются значения 99,99%, так же стоит обра
 тить внимание на
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 741--754
+Underfull \hbox (badness 1194) in paragraph at lines 744--757
 \TU/TimesNewRoman(0)/m/n/14.4 в облачной инфраструктуре является отрицательным 
 показателем, так как
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 755--766
+Underfull \hbox (badness 10000) in paragraph at lines 758--769
 \TU/TimesNewRoman(0)/m/n/14.4 специалисты присутствуют в достаточном количестве
 , что снижает
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 755--766
+Underfull \hbox (badness 2818) in paragraph at lines 758--769
 \TU/TimesNewRoman(0)/m/n/14.4 вероятность задержек по человеческому фактору. Эт
 о значит, что время
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 755--766
+Underfull \hbox (badness 6592) in paragraph at lines 758--769
 \TU/TimesNewRoman(0)/m/n/14.4 Скоринговая система полностью построена на анализ
 е транзакционной
  []
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 767--774
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 770--777
 []\TU/TimesNewRoman(0)/m/n/14.4 АКБ «Абсолют Банк» использует современные техно
 логии для
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 767--774
+Underfull \hbox (badness 2253) in paragraph at lines 770--777
 \TU/TimesNewRoman(0)/m/n/14.4 мониторинга и логирования произшествий, что отраж
 ается в небольшом
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 767--774
+Underfull \hbox (badness 4391) in paragraph at lines 770--777
 \TU/TimesNewRoman(0)/m/n/14.4 времени реагирования, но время устранения ошибок 
 велико в связи с
  []
@@ -2402,379 +2438,397 @@ Underfull \hbox (badness 4391) in paragraph at lines 767--774
 File: ./images/google_cloud_downtime.png Graphic file (type bmp)
 <./images/google_cloud_downtime.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 784--794
+Underfull \hbox (badness 10000) in paragraph at lines 787--797
 \TU/TimesNewRoman(0)/m/n/14.4 ИТ-инфраструктуры, которая поддерживает модуль по
 требительского
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 784--794
+Underfull \hbox (badness 1546) in paragraph at lines 787--797
 \TU/TimesNewRoman(0)/m/n/14.4 кредитования АКБ «Абсолют Банк». Архитектура сост
 оит из трех слоев:
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 784--794
+Underfull \hbox (badness 1292) in paragraph at lines 787--797
 \TU/TimesNewRoman(0)/m/n/14.4 Этот модуль дает полноценное понимание о всех биз
 нес, продуктовых и
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 796--815
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 799--818
 []\TU/TimesNewRoman(0)/m/n/14.4 Бизнес-слой показывает ключевые процессы, необх
 одимые для
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 796--815
+Underfull \hbox (badness 1297) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 процессом является обработка заявок на кредитован
 ие в рамках которого
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 796--815
+Underfull \hbox (badness 1231) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 или автокредитования и верификация документов пот
 ребителя. Обработка
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 796--815
+Underfull \hbox (badness 1803) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 заявок на кредитование поддерживается системой уп
 равления обучением.
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 796--815
+Underfull \hbox (badness 6944) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 Следующим важным бизнес-процессом является утверж
 дение кредитов,
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 796--815
+Underfull \hbox (badness 1147) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 истории и платежеспособности с использованием бан
 ковской скоринговой
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 796--815
+Underfull \hbox (badness 7379) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 счет потребителя. Далее запускаются три процесса,
  которые частично
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 796--815
+Underfull \hbox (badness 3568) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 и отчетность. Каждый из этих процессов помогает б
 анковской системе
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 796--815
+Underfull \hbox (badness 4765) in paragraph at lines 799--818
 \TU/TimesNewRoman(0)/m/n/14.4 кредитования, так как обслуживая кредит банковска
 я система собирает
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--819
+Underfull \hbox (badness 10000) in paragraph at lines 819--822
 []\TU/TimesNewRoman(0)/m/n/14.4 Слой приложений находится уровнем выше и он под
 держивает
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--819
+Underfull \hbox (badness 10000) in paragraph at lines 819--822
 \TU/TimesNewRoman(0)/m/n/14.4 работоспособность бизнес слоя предоставляя инстру
 менты и методы
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 820--836
+Underfull \hbox (badness 1348) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 для менеджера и других участников блока благодаря
  которым они могут
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 820--836
+Underfull \hbox (badness 1028) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 который начинается в момент подачи заявки и оканч
 ивается погашением.
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 820--836
+Underfull \hbox (badness 3019) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 На протяжении жизненного цикла кредита система ри
 ски и уведомляет
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 820--836
+Underfull \hbox (badness 6758) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 работу модуля под потребности и желания клиентов,
  кроме того эта
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 820--836
+Underfull \hbox (badness 2846) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 органам управления финансами и активами, например
  ЦБ России. Роль
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 820--836
+Underfull \hbox (badness 1728) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 замой наиболее важной системы в банковском сектор
 е занимает система
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 820--836
+Underfull \hbox (badness 1057) in paragraph at lines 823--839
 \TU/TimesNewRoman(0)/m/n/14.4 безопасности, так как атаки, взломы и потеря личн
 ой информации могут
  []
 
-[22]
-Underfull \hbox (badness 1348) in paragraph at lines 840--845
+[25]
+Underfull \hbox (badness 1348) in paragraph at lines 843--848
 \TU/TimesNewRoman(0)/m/n/14.4 ПО обеспечивающее работу веб-сайта, пользовательс
 кого приложения. На
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 840--845
+Underfull \hbox (badness 1968) in paragraph at lines 843--848
 \TU/TimesNewRoman(0)/m/n/14.4 банковская система, инструменты аналитики и обесп
 ечения безопасности
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 846--854
+Underfull \hbox (badness 4291) in paragraph at lines 849--857
 \TU/TimesNewRoman(0)/m/n/14.4 шифрования и для передачи данных должны иметь нес
 колько уровней
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 855--862
+Underfull \hbox (badness 4595) in paragraph at lines 858--865
 []\TU/TimesNewRoman(0)/m/n/14.4 Технологический слой состоит из серверов, котор
 ые в физичеком
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 855--862
+Underfull \hbox (badness 4479) in paragraph at lines 858--865
 \TU/TimesNewRoman(0)/m/n/14.4 виде недоступны, так как они представлены как вир
 туальные машины
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 855--862
+Underfull \hbox (badness 3482) in paragraph at lines 858--865
 \TU/TimesNewRoman(0)/m/n/14.4 для потребителя в облачной платформе, на которых 
 находится все ПО
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 855--862
+Underfull \hbox (badness 10000) in paragraph at lines 858--865
 \TU/TimesNewRoman(0)/m/n/14.4 обеспечивающее работу веб-сайта, пользовательског
 о приложения. На
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 855--862
+Underfull \hbox (badness 1968) in paragraph at lines 858--865
 \TU/TimesNewRoman(0)/m/n/14.4 банковская система, инструменты аналитики и обесп
 ечения безопасности
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 863--870
+Underfull \hbox (badness 2608) in paragraph at lines 866--873
 \TU/TimesNewRoman(0)/m/n/14.4 как получив до ступ к личным данным пользователей
  злоумышленники
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 863--870
+Underfull \hbox (badness 1194) in paragraph at lines 866--873
 \TU/TimesNewRoman(0)/m/n/14.4 получаются возможность на финансовые операции от 
 лица потребителей.
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 863--870
+Underfull \hbox (badness 1112) in paragraph at lines 866--873
 \TU/TimesNewRoman(0)/m/n/14.4 Базы данных так же предоставляются облачным вендо
 ром, что добавляет
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 863--870
+Underfull \hbox (badness 1540) in paragraph at lines 866--873
 \TU/TimesNewRoman(0)/m/n/14.4 в цепочку звену полностью не подконтрольное модул
 ю потребительского
  []
 
-[23]
-Underfull \hbox (badness 3623) in paragraph at lines 871--878
+[26]
+Underfull \hbox (badness 3623) in paragraph at lines 874--881
 []\TU/TimesNewRoman(0)/m/n/14.4 Сетевая инфраструктура в офисах АКБ «Абсолют ба
 нк» довольно
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 879--881
+Underfull \hbox (badness 10000) in paragraph at lines 882--884
 []\TU/TimesNewRoman(0)/m/n/14.4 Диаграмма построенная с использованием языка мо
 делирования
  []
 
 File: ./images/as-is-archimate.png Graphic file (type bmp)
 <./images/as-is-archimate.png>
-[24]
-Underfull \hbox (badness 3861) in paragraph at lines 895--900
+[27]
+Underfull \hbox (badness 3861) in paragraph at lines 898--903
 \TU/TimesNewRoman(0)/m/n/14.4 в рамках той или иной задачи и описывает правила 
 которым должны
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--900
+Underfull \hbox (badness 10000) in paragraph at lines 898--903
 \TU/TimesNewRoman(0)/m/n/14.4 соответствовать цели выполнимой задачи. Цели зада
 чи должны быть
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--900
+Underfull \hbox (badness 10000) in paragraph at lines 898--903
 \TU/TimesNewRoman(0)/m/n/14.4 конкретны (Specific), измеримы (Measurable), дост
 ижимы (Achievable),
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 901--913
+Underfull \hbox (badness 2961) in paragraph at lines 904--916
 \TU/TimesNewRoman(0)/m/n/14.4 что они являются ниже, чем принято в мире для сек
 тора банкинга. В
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 901--913
+Underfull \hbox (badness 6493) in paragraph at lines 904--916
 \TU/TimesNewRoman(0)/m/n/14.4 показателей на основе которых уже будет возможнос
 тью с легкостью
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 901--913
+Underfull \hbox (badness 1152) in paragraph at lines 904--916
 \TU/TimesNewRoman(0)/m/n/14.4 улучшить бизнес показатели показатели. Предварите
 льно проанализировав
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 901--913
+Underfull \hbox (badness 3199) in paragraph at lines 904--916
 \TU/TimesNewRoman(0)/m/n/14.4 показатели, а в частности показатели касающиеся х
 ранения и передачи
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 901--913
+Underfull \hbox (badness 1769) in paragraph at lines 904--916
 \TU/TimesNewRoman(0)/m/n/14.4 показателей, который будет составлять 20%. Данные
  значения позволяют
  []
 
 
-Underfull \hbox (badness 8094) in paragraph at lines 914--918
+Underfull \hbox (badness 8094) in paragraph at lines 917--921
 []\TU/TimesNewRoman(0)/m/n/14.4 Оценки затрат начальных вложений в новую ИТ-инф
 раструктуру
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 914--918
+Underfull \hbox (badness 5288) in paragraph at lines 917--921
 \TU/TimesNewRoman(0)/m/n/14.4 представлены в Таблице [][]1.7[][] . Внедрение и 
 настройка представленных
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 914--918
+Underfull \hbox (badness 2326) in paragraph at lines 917--921
 \TU/TimesNewRoman(0)/m/n/14.4 компонентов составит 4.600.000 рублей, а суммарно
  все первоначальные
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 944--944
+Overfull \hbox (14.0pt too wide) in paragraph at lines 946--946
 [] [] 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 944--944
+Overfull \hbox (14.0pt too wide) in paragraph at lines 946--946
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 []|\TU/TimesNewRoman(0)/m/n/14.4 4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 []|\TU/TimesNewRoman(0)/m/n/14.4 Коммутаторы и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 []|\TU/TimesNewRoman(0)/m/n/14.4 Программное
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 []|\TU/TimesNewRoman(0)/m/n/14.4 СУБД, системы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
 \TU/TimesNewRoman(0)/m/n/14.4 безопасности, системы
  []
 
-[25]
-Underfull \hbox (badness 7221) in paragraph at lines 946--949
+[28]
+Underfull \hbox (badness 7221) in paragraph at lines 948--951
 []\TU/TimesNewRoman(0)/m/n/14.4 Годовые эксплуатационные расходы составят 4.550
 .000 рублей из
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 950--957
+Underfull \hbox (badness 1199) in paragraph at lines 952--959
 \TU/TimesNewRoman(0)/m/n/14.4 учитывая средний доход в 4500 рублей с займа годо
 вая выхода составит
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 968--975
+Underfull \hbox (badness 10000) in paragraph at lines 970--977
 []\TU/TimesNewRoman(0)/m/n/14.4 По расчетам выше получается, что годовая выгода
  составит
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 968--975
+Underfull \hbox (badness 5924) in paragraph at lines 970--977
 \TU/TimesNewRoman(0)/m/n/14.4 расходов на поддержание инфраструктуры в 4.550.00
 0 рублей. Чистый
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 968--975
+Underfull \hbox (badness 4673) in paragraph at lines 970--977
 \TU/TimesNewRoman(0)/m/n/14.4 денежный поток равен разнице между текущими расхо
 дами и новыми
  []
 
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1008
-[]\TU/TimesNewRoman(0)/m/n/14.4 Данная курсовая работа преследует такие цели ка
-к, разработку
+[29]
+Underfull \hbox (badness 2213) in paragraph at lines 1004--1010
+\TU/TimesNewRoman(0)/m/n/14.4 слой приложения, заключающийся в CRM, LMS и основ
+ной банковской
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 1009--1014
+Underfull \hbox (badness 4981) in paragraph at lines 1004--1010
+\TU/TimesNewRoman(0)/m/n/14.4 спланировать использование серверов, систем хране
+ния данных, систем
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 1011--1017
 []\TU/TimesNewRoman(0)/m/n/14.4 Наличие документации содержащей текстовое описа
 ние, диаграммы
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 1019--1028
+Underfull \hbox (badness 1540) in paragraph at lines 1018--1021
+[]\TU/TimesNewRoman(0)/m/n/14.4 Все цели преследуемые в данного проекта, которы
+е описаны выше
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 1018--1021
+\TU/TimesNewRoman(0)/m/n/14.4 полностью соответствуют методике «SMART», так как
+ они конкретны,
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 1022--1031
 []\TU/TimesNewRoman(0)/m/n/14.4 В ИТ-инфраструктуре АКБ «Абсолют Банк» доработо
 к и изменений
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 1019--1028
+Underfull \hbox (badness 1178) in paragraph at lines 1022--1031
 \TU/TimesNewRoman(0)/m/n/14.4 использования не совсем подходящих технологий и а
 ппаратных решений.
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 1019--1028
+Underfull \hbox (badness 1609) in paragraph at lines 1022--1031
 \TU/TimesNewRoman(0)/m/n/14.4 Облачная инфраструктура в модуле потребительского
  кредитования банка
  []
 
-[27] [28] [29] (./diploma.aux)
+[30] [31] [32] [33] (./diploma.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2796,12 +2850,12 @@ Package logreq Info: Writing requests to 'diploma.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35195 strings out of 474773
- 679771 string characters out of 5757724
- 1962838 words of memory out of 5000000
- 56832 multiletter control sequences out of 15000+600000
+ 35225 strings out of 474773
+ 680573 string characters out of 5757724
+ 1964884 words of memory out of 5000000
+ 56862 multiletter control sequences out of 15000+600000
  560726 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,9n,114p,1456b,5432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,17n,114p,1456b,5440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on diploma.pdf (26 pages).
+Output written on diploma.pdf (33 pages).

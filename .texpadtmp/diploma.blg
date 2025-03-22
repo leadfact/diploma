@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.blg'
-[30] biber-darwin:340> INFO - === Sat Mar 22, 2025, 17:40:14
-[39] Biber.pm:419> INFO - Reading '/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bcf'
-[87] Biber.pm:979> INFO - Found 9 citekeys in bib section 0
-[94] Biber.pm:4419> INFO - Processing section 0
-[99] Biber.pm:4610> INFO - Looking for bibtex file '/Users/dnarek/MIREA/diploma/diploma.bib' for section 0
-[100] bibtex.pm:1713> INFO - LaTeX decoding ...
-[102] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/dnarek/MIREA/diploma/diploma.bib'
-[122] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[122] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[123] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[123] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
-[125] bbl.pm:660> INFO - Writing '/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bbl' with encoding 'UTF-8'
-[126] bbl.pm:763> INFO - Output to /Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bbl
+[32] biber-darwin:340> INFO - === Sat Mar 22, 2025, 19:52:01
+[41] Biber.pm:419> INFO - Reading '/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bcf'
+[89] Biber.pm:979> INFO - Found 12 citekeys in bib section 0
+[98] Biber.pm:4419> INFO - Processing section 0
+[103] Biber.pm:4610> INFO - Looking for bibtex file '/Users/dnarek/MIREA/diploma/diploma.bib' for section 0
+[103] bibtex.pm:1713> INFO - LaTeX decoding ...
+[106] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/dnarek/MIREA/diploma/diploma.bib'
+[133] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[133] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[134] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[134] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
+[137] bbl.pm:660> INFO - Writing '/Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bbl' with encoding 'UTF-8'
+[139] bbl.pm:763> INFO - Output to /Users/dnarek/MIREA/diploma/.texpadtmp/diploma.bbl
